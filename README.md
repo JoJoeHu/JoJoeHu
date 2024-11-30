@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Kaiqiao
-- 👀 I’m interested in data science
+# 👋 Hi there
 - 🌱 I’m currently an undergraduate in Applied Mathematics
+-  👀 I’m interested in data science
+- :memo: Resume:
 
 
 <!---
