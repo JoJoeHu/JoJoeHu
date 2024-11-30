@@ -1,7 +1,7 @@
 # 👋 Hi there
 - 🌱 I’m currently an undergraduate in Applied Mathematics
 -  👀 I’m interested in data science
-- :memo: Resume:
+- :memo: click [here](https://github.com/JoJoeHu/JoJoeHu/blob/main/CV-KaiqiaoHu-%E7%AA%84.pdf) to view my resume
 
 
 <!---
